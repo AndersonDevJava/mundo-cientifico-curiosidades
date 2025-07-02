@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(183, 243, 179);
+    padding: 4em;
+}
+.header{
+    background-color: black;
+    padding: 10px;
+}
+.titulo{
+    color: rgb(33, 206, 54);
+    text-align: center;
+}
+.autores{
+    color: rgb(150, 152, 154);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.explicando-ciencia{
+    text-align: center;
+    font-size: large;
+}
+.cientistas{
+    border-radius: 1em;
+    gap: 150px;
+    margin-top: 3em;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cientistas img{
+    border-radius: 1em;
+    height: 200px;
+    width: 180px;
+}
+.Links-cientistas{
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+    gap: 15em;
+}
+a{
+    color: rgb(6, 133, 23);
+}
+.surgimento-ciencia{
+    border-radius: 20em;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(112, 221, 108);
+    padding: 1%;
+    background-color: rgb(0, 0, 0);
+}
+.primeiro-topico{
+    margin-left: 2em;
+    font-size: large;
+    color: rgb(207, 206, 206);
+    width: 70em;
+    line-height: 1.4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.container-preto{
+    padding: 2em;
+    background-color: black;
+    border-radius: 1em;
+}
+.div-video{
+    margin-top: 1em;
+    border: 10px solid rgb(145, 142, 142);
+    margin-left: 22em;
+    width: 39em;
+    height: 22em;
+}
+.div-video video{
+    width: 39.1em;
+}
+.breve-História{    
+    color: rgb(112, 221, 108);
+}
+.div-titulo-video{
+    padding-top: 2em;
+    text-align: center;
+}
+.fundo-inferiro{
+    border-radius: 1em;
+    height: 15em;
+    background-color: black;
+}
+.conteudo-infeiro{
+    color: aliceblue;
+}
+.contato{
+    padding-top: -1em;
+}
+li{
+    color: rgb(3, 3, 3);
+}

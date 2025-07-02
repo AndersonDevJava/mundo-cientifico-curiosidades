@@ -1,0 +1,76 @@
+
+/*Cabeçalho*/
+body{
+    background-color: rgba(14, 106, 7, 0.625);
+    max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+    border: 50px solid black;
+}
+.cabecalho{
+  font-weight: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 40px;
+  background: linear-gradient(90deg, #111, #333); /*Cria um degradê de cores de fundo.*/
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5); /*Adiciona sombra ao redor do elemento.*/
+  display: flex;
+  flex-direction: column; /*empilhados de cima para baixo*/
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+}
+.title-Marie{
+    margin-top: 1%;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(14, 207, 34);
+}
+.citacao{
+    color: rgb(159, 225, 135);
+}
+/*-----------------------------------*/
+
+.fundo-cinza{
+    margin-top: 1em;
+    background: linear-gradient(90deg, #111, #333);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    border-radius: 12px;
+    padding: 2em;
+    min-height: 1000px;
+}
+.teste{
+    color: white;
+    max-width: 1100px;
+    margin: auto;
+}
+.trajetória{
+    font-size: 2em;
+    color: rgb(12, 74, 40);
+    background-color: rgba(226, 230, 234, 0.953);
+    width: 5em;
+    padding: 1%;
+}
+.p1{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(177, 174, 174);
+}
+.Premios{
+    font-size: 2em;
+    color: rgb(12, 74, 40);
+    background-color: rgba(226, 230, 234, 0.953);
+    width: 5em;
+    padding: 1%;
+}
+.link-wikpedia{
+    margin-top: 4em;
+}
+.cor-link{
+    color: aliceblue;
+}
+a:hover{
+    color: aquamarine
+}
+.link-Pag-inicial:hover{
+    color: blue;
+}

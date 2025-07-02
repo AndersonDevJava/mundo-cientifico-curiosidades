@@ -1,0 +1,77 @@
+body {
+background-color: rgb(102, 163, 97);
+padding: 50px;
+font-family: Arial, sans-serif;
+color: rgb(14, 207, 34);
+margin: 0;
+}
+.container {
+max-width: 900px;
+margin: 0 auto;
+background-color: rgb(228, 228, 228);
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgb(100 100 100 / 0.2); /*Sombra ao elemento na página Web*/
+}
+.header {
+background-color: rgb(9, 6, 6);
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+text-align: center;
+}
+.titulo {
+color: rgb(14, 207, 34);
+margin: 0;
+font-size: 2.5em;
+}
+blockquote {
+margin: 15px auto 0;
+padding: 10px;
+color: rgb(0, 0, 0);
+font-style: italic;
+border-left: 5px solid rgb(14, 207, 34);
+max-width: 700px;
+text-align: center;
+}
+.citacao{
+    color: rgba(143, 152, 152, 0.99)
+}
+h2 {
+text-align: center;
+color: rgb(0, 0, 0);
+margin-top: 30px;
+}
+p {
+font-size: large;
+text-align: justify;
+color: #252625;
+line-height: 1.5;
+}
+img {
+display: block;
+margin: 20px auto;
+max-width: 300px;
+border-radius: 10px;
+box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+a {
+color: rgb(8, 99, 218);
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+footer {
+margin-top: 40px;
+text-align: center;
+color: rgb(0, 0, 0);
+font-size: 0.9em;
+}
+.link-pag-inicial{
+    color: black;
+    margin-left: 15em;
+}
+.pagina-inicial{
+    color: black;
+}

@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(183, 243, 179);
+    transform: scale(0.9);
+    padding: 60px;
+}
+.fundo-preto{
+    height: 1000px;
+    background-color: black;
+}
+.fundo-preto::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 795px;
+    margin-top: 15em;
+    margin-bottom: 9em;
+    transform: translateX(-50%);
+    width: 1px;
+    background-color: aliceblue;
+}
+.title-subtile{
+    border: 10px solid rgba(238, 4, 4, 0); /*COR GUIA*/
+    display: flex;
+    margin-left: 230px;
+    height: 125px;
+    font-size: 2em;
+    margin-left: 200px;
+    margin-top: -260px;
+    display: flex;
+}
+.div-img{
+    padding: 10px;
+    border: 10px solid rgba(229, 12, 153, 0); /*COR GUIA*/
+}
+.div-L{
+    position: relative;
+    color: rgb(162, 165, 167);
+    border: 10px solid rgba(0, 0, 255, 0); /*COR GUIA*/
+    margin-left: 10.1em;
+    margin-top: 1em;
+    width: 26em;
+    height: 10em;
+    font-size: 1.2em;
+}
+.tex-div-L{
+    line-height: 1.3;
+}
+.text-div-L2{
+    border: 10px solid rgba(3, 253, 95, 0); /*COR GUIA*/
+    margin-top: 1.3em;
+    margin-left: -2mm;
+    width: 43.6em;
+}
+.text-L2{
+    color: rgb(162, 165, 167);
+    font-size: 1.1em;
+    text-align: justify;
+}
+.div-R-video{
+    color: rgb(162, 165, 167);
+    border: 10px solid rgba(212, 181, 4, 0); /*COR GUIA*/
+    margin-left: 19.1cm;
+    margin-top: -20.9cm;
+    width: 16cm;
+    height: 41.1em;
+    font-size: 1.2em;
+}
+.diminuir-subtitle{
+    color: white;
+    font-size: large;
+}
+.Albert-Einstein{
+    color: rgba(248, 6, 6, 0.736);
+    margin-left: 4em;
+}
+.Fisico-teórico-alemão{
+    color: rgba(248, 6, 6, 0.96);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+li{
+    color: rgb(162, 165, 167);
+    font-size: 1.2em;
+    line-height: 1em;
+}
+.text-video{
+    font-size: large;
+}
+.h1-video{
+    color: white;
+}
+a{
+    color: rgb(231, 165, 10);
+}
+.div-a{
+    margin-top: -33px;
+    margin-left: 10px;
+}
+.link-color{
+    color: rgb(255, 255, 255);
+}
