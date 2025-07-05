@@ -140,3 +140,9 @@ body{
         .h2-Pag-inicial{
             color: rgb(7, 7, 8);
         }
+        figure > figcaption{
+            color: aliceblue;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(85, 85, 85);
+        }
