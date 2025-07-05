@@ -52,11 +52,7 @@ body{
     margin-left: -2mm;
     width: 43.6em;
 }
-.text-L2{
-    color: rgb(162, 165, 167);
-    font-size: 1.1em;
-    text-align: justify;
-}
+
 .div-R-video{
     color: rgb(162, 165, 167);
     border: 10px solid rgba(212, 181, 4, 0); /*COR GUIA*/
